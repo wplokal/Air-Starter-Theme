@@ -1,2 +1,2 @@
-# Air-Starter-Theme
-Airstudio Starter Theme - Wordpress
+# AirStore
+Air Studio Starter Theme WooCommerce
